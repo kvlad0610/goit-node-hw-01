@@ -1,0 +1,26 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "start:dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvlad0610/goit-node-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Vlad Kirienko <kvlad0610@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvlad0610/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/kvlad0610/goit-node-hw-01#readme",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "nodemon": "^2.0.7"
+  }
+}
